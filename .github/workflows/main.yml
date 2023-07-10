@@ -16,10 +16,12 @@ jobs:
           hugo-version: 'latest'
           
       - name: Build blog
-        run: hugo --config config/production/config.toml 
+        run: hugo --config config/production/config.toml
         
-      - name :Deploy blog
+      - name: Deploy blog 
         uses: w9jds/firebase-action@master
         with:
           args: deploy --only hosting
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
       
