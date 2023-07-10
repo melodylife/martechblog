@@ -1,0 +1,62 @@
+baseurl = "https://blog.changworkshop.com"
+title = "Ongoing Marketing"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+buildDrafts = true
+theme = "mainroad"
+disqusShortname = 'changworkshopblog' # Enable comments by entering your Disqus shortname
+googleAnalytics = "G-YDHZPR1898" # Enable Google Analytics by entering your tracking id
+sectionPagesMenu = "main"
+buildExpired = true
+
+[Author]
+  name = "Chang Sun"
+  bio = "Hi ~ I'm Chang. I'm an online marketing veteran. I started my career along with world's first Adverting Exhange and bagan with cookie mapping mechanism there. I learned cutting-edge marketing techniques in Google. I put my theory to practice in one of the top 3rd party DSP in China market. I built SSP platform with highest spending in one of top eComm company of China from scratch. I love this industry and am willing to share what I learned from my career. Learning new inspiration ,putting lastest martech into practice and shocking the market which are always pursed by me with enthusiasm."
+  avatar = "https://d1gqx5wdpmskko.cloudfront.net/globalassets/avatar.JPG"
+
+[Params]
+  description = "Chang's Personal blog about technical happenings , especially on the martech" # Description of your site
+  copyright = "Chang Sun"
+  opengraph = true
+  twitter_cards = false
+  readmore = false # Show "Read more" button in list if true
+  authorbox = true
+  pager = true
+  toc = true
+  post_meta = ["date", "categories"] # Order of post meta information
+  mathjax = true
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js"
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
+  googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700"
+
+[Params.logo]
+  subtitle = "About technical happenings , especially on the martech" # Logo subtitle
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist","social"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+  categories_counter = true
+
+[Params.widgets.social]
+  linkedin = 'chang-sun-b772906b' 
+
+[Params.image_cdn]
+  enable = true
+  host = "https://d1gqx5wdpmskko.cloudfront.net/posts/"
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 3
+[[menu.main]]
+  name = 'About'
+  url = '/about'
+  weight = 10
