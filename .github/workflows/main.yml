@@ -1,0 +1,25 @@
+name: deploy hugo martech blog on firebase
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          
+      - name: Build blog
+        run: hugo --config config/production/config.toml 
+        
+      - name :Deploy blog
+        uses: w9jds/firebase-action@master
+        with:
+          args: deploy --only hosting
+      
