@@ -8,8 +8,8 @@ keywords:
  - Tracking
  - Branding
 categories:
- - Marketing
- - Branding
+ - Digital Marketing
+ - Brand Marketing
  - Tracking
 thumbnail: "https://d1gqx5wdpmskko.cloudfront.net/posts/vision-pro-on-marketing/vision-pro-thumb.jpg"
 comments: true

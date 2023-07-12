@@ -11,9 +11,9 @@ keywords:
 - google
 - marketing
 categories:
-- online advertisement
+- Online Advertising
 - AI
-- marketing
+- Digital Marketing
 thumbnail: "https://d1gqx5wdpmskko.cloudfront.net/posts/generative-ai-online-advertisement/generative-ai.jpeg"
 draft: false
 ---

@@ -2,12 +2,9 @@
 title: "Competitive Marketing in digital marketing era"
 date: 2023-05-21T04:09:03Z
 categories:
-- marketing
-- digital marketing
-- audience targeting
-- brand protection
-- competitive marketing
-- xiaomi
+- Digital Marketing
+- Brand Protection
+- Xiaomi
 keywords:
 - marketing
 - competitive marketing

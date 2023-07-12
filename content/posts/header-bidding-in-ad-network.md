@@ -2,8 +2,9 @@
 title: "Header Bidding in Ad Network"
 date: 2023-07-10T15:24:52+08:00
 categories:
-- online advertising
-- tech
+- Online Advertising
+- Digital Marketing
+- Inventory Monetization
 keywords:
 - header bidding
 - programmatic

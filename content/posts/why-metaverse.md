@@ -11,9 +11,11 @@ keywords:
 - IDFA
 - ios
 - android
-categories:
-- metaverse
 - online advertising
+categories:
+- Digital Marketing
+- Online advertising
+- Meta
 thumbnail: "https://d1gqx5wdpmskko.cloudfront.net/posts/why-metaverse/meta-verse.jpeg"
 draft: false
 ---

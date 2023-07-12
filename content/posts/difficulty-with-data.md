@@ -8,9 +8,9 @@ keywords:
 - marketing
 - audience targeting
 categories:
-- online advertising
-- audience data
-- marketing
+- Online Advertising
+- Audience Data
+- Digital Marketing
 thumbnail: "https://d1gqx5wdpmskko.cloudfront.net/posts/difficulty-with-data/audience-data.png"
 draft: false
 ---
