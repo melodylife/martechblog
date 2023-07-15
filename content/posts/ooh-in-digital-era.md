@@ -16,7 +16,7 @@ thumbnail: "https://d1gqx5wdpmskko.cloudfront.net/posts/ooh-in-digital-era/OOH-t
 comments: true # Enable Disqus comments for specific page
 pager: true # Enable pager navigation (prev/next) for specific page
 mathjax: true # Enable MathJax for specific page
-draft: true
+draft: false
 ---
 
 ## What is OOH 
