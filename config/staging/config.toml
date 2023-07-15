@@ -29,6 +29,10 @@ buildExpired = true
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
   googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700"
 
+[Params.image_cdn]
+  enable = true
+  host = "https://d1gqx5wdpmskko.cloudfront.net/posts/"
+
 [Params.logo]
   subtitle = "About technical happenings , especially on the martech" # Logo subtitle
 
@@ -46,10 +50,6 @@ buildExpired = true
 
 [Params.widgets.social]
   linkedin = 'chang-sun-b772906b' 
-
-[Params.image_cdn]
-  enable = true
-  host = "https://d1gqx5wdpmskko.cloudfront.net/posts/"
 
 [menu]
 [[menu.main]]

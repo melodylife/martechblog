@@ -10,6 +10,7 @@ keywords:
 - competitive marketing
 - xiaomi
 - brand protection
+description: competitive-positioning
 thumbnail: "https://d1gqx5wdpmskko.cloudfront.net/posts/competitive-positioning/xiaomi-vs-apple-leijun.jpeg"
 draft: false
 ---
@@ -24,14 +25,14 @@ If such enterprise don't think they can overtake the marketshare from Apple, why
 The purpose is not to convince customers that they can be the better choice than Apple in one day, however, the reason is that they hope to absorb as many users from the user group they are targeting. Android phone manufaturers are targeting the audience group who are willing to buy iPhone but with some particular reasons that they can't. In that case, the second place in
 the list is quite important. The one who sits after Apple in the list will absorb the most of the users falling from the first layer of the funnel.  
 
-![Mobile Phone Market Share](https://d1gqx5wdpmskko.cloudfront.net/posts/competitive-positioning/Mobile-Market-Share-by-Brand.png)
+![Mobile Phone Market Share](Mobile-Market-Share-by-Brand.png)
 
 The way is called competitive marketing. The competitive marketing is a marketing approach that gives consumers many options by offering similar products with different approach of  branding and marketing
 # How is competitive marketing happening in digital era ? 
 In the digital marketing area, competitive marketing exists as well. For example, if you search with word "Google Cloud" on Google, Amzaon AWS or Ali Cloud will jump out as the search ad content on the top above the real Google Cloud website link in the search result. Consumers may be confused or interested in what's promoted by the Ad, then they may click the link and land in the competitors website instead.Obviously, the competitive marketing is hurting brands on both brand recognition and
 the marketing performance. 
 
-![Mobile Phone Market Share](https://d1gqx5wdpmskko.cloudfront.net/posts/competitive-positioning/search-engine-keywords.png)  
+![Mobile Phone Market Share](search-engine-keywords.png)  
 
 Brands have to be quite careful about other competitors that may add much more cost to marketing activities. 
 There are many more cases in the digital marketing area which are typically competitive marketing. As the enterprises can't build effective barrier in many industries, there are always more than 1 or even more than 10 outstanding competitors in a single industry. They are delivering quite similar products and services to consumers. Hence, the competive marketing can't be avoided. 

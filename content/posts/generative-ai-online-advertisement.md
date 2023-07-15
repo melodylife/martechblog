@@ -14,6 +14,7 @@ categories:
 - Online Advertising
 - AI
 - Digital Marketing
+description: generative-ai-online-advertisement 
 thumbnail: "https://d1gqx5wdpmskko.cloudfront.net/posts/generative-ai-online-advertisement/generative-ai.jpeg"
 draft: false
 ---

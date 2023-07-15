@@ -11,6 +11,7 @@ categories:
 - Online Advertising
 - Audience Data
 - Digital Marketing
+description: difficulty-with-data
 thumbnail: "https://d1gqx5wdpmskko.cloudfront.net/posts/difficulty-with-data/audience-data.png"
 draft: false
 ---
@@ -27,7 +28,7 @@ need to add more value to existing inventory.
 * With data, publishers can tell the story that data will bring better performance to add more value to the inventory ,especially the long-tail traffic.
 * Slice the inventory into pieces so that each placement can be sold to more advertisers which increases the ferociousness of impression auctions. It's widely used in programmatic advertisement by publishers.  
 Due to the different objectives of marketers and publishers, marketers should be cautious when using data, especially when publishers try to convince marketers to use data to target audiences. Please remember , data is never commiting the performance. Meanwhile, marketing campaign performance is decided not only by audience data.  
-![Ad Auction](https://d1gqx5wdpmskko.cloudfront.net/posts/difficulty-with-data/ad-auctions.svg)
+![Ad Auction](ad-auctions.svg)
 ## Predicament of data in online advertisement scenario
 Data result in predicament for both publishers and marketers. When running marketing campaigns and monetization inventories, you should be careful and try to avoid them. 
 

@@ -12,6 +12,7 @@ keywords:
 - ad network
 - GDN
 - criteo
+description: header-bidding-in-ad-network
 comments: true # Enable Disqus comments for specific page
 pager: true # Enable pager navigation (prev/next) for specific page
 mathjax: true # Enable MathJax for specific page
@@ -29,7 +30,7 @@ According to above the original waterfall programmatic aution model was far from
   * Publishers take over the right to decide the final price of each impression. Moreover, publishers can combine it with traditional waterfall model to maximize their income
   * Buyers are able to set up direct buying channel without brokers. Smaller agencies/DSP can buy premium inventory directly from publishers.
 Header bidding switched on a new era of programmatic auction in the industry
-![Header Bidding](https://d1gqx5wdpmskko.cloudfront.net/posts/header-bidding-in-ad-network/header-bidding.png)
+![Header Bidding](header-bidding.png)
 ## Why do Adnetwork need header bidding
 We are all aware that publishers use header bidding to ensure better income. But how about Adnetworks. Why do they need such business model? Actually, different Adnetwork reacted differently. Doubleclick Adx, which is Google, was scared when header bidding came out then. 
 ### Small Adnetworks love it. 
@@ -39,7 +40,7 @@ Hence the header bidding was welcome by small publishers, Adnetworks and adverti
 When it was during platform shifting, inventories were changing from PC web to mobile. Some industry experts was predicting that header bidding couldn't work on mobile platform. However, they were right about the implementation approach but they underestimate the temptation of the business model within online advertisement industry. 
 ### Benefits of header bidding in current mobile time
 To maximize the income of the publishers, advertisers/Adnetworks now is providing technical solution to enable header bidding.Especially for some newly entry players, they can use header bidding to intercept the traditional programmatic buying process but to buy premium inventory with decent price. Now the publishers can implement the bidding process on their server side and cache the outcome that maintain the performance. Besides, some mobile publishers can leverage the device capability to localize the auction process on the device and continue to call other Ad networks if the prices coming out is not satisfying. At the same time, by skipping the broker, advertisers can pay more to publishers from the margin saved from buying from brokers.   
-![The benefit of header bidding](https://d1gqx5wdpmskko.cloudfront.net/posts/header-bidding-in-ad-network/header-bidding-benefit.jpeg)
+![The benefit of header bidding](header-bidding-benefit.jpeg)
 ## The future of inventory distribution
 The inventory distribution solution keeps on changing all the time. Even the head bidding model is still applicable but it can't be fitted into all the scenarios. 
 ### Who's better to use header bidding ?

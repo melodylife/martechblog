@@ -1,0 +1,32 @@
+<!-- 1. 变量赋值 -->
+<!-- 1.1. 默认情况， 获取图片的定义地址 -->
+<!-- ./image.png -->
+<!-- /static/img/image.png -->
+<!-- http://example.com/path/to/image.png -->
+<!-- {{- $img_dest := .Destination -}} -->
+{{- $img_dest := (print .Page.Description "/" (path.Join .Destination)) -}}
+
+
+
+
+<!-- 4.  开启 CDN -->
+<!-- 是否开启 CDN 选项 -->
+{{- if (and .Page.Site.Params.image_cdn.enable .Page.Site.IsServer) -}}
+<!-- 文件不以 http 开头 -->
+{{ if not (hasPrefix $img_dest "https") }}
+<!-- image_cdn + /path/to/image.png -->
+{{ $img_dest = (print .Page.Site.Params.image_cdn.host (path.Join $img_dest)) }}
+{{ end }}
+{{- end -}}
+<!-- CDN END -->
+
+
+<img 
+    src="{{ $img_dest | safeURL }}" 
+    alt="{{ .Text }}" 
+    {{ with .Title }} 
+        title="{{ . }}" 
+    {{ end }} 
+/>
+{{- /* Drop trailing newlines */ -}}
+

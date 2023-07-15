@@ -16,6 +16,7 @@ categories:
 - Digital Marketing
 - Online advertising
 - Meta
+description: why-metaverse
 thumbnail: "https://d1gqx5wdpmskko.cloudfront.net/posts/why-metaverse/meta-verse.jpeg"
 draft: false
 ---

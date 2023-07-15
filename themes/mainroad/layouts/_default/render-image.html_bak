@@ -1,9 +1,0 @@
-{{- $img_dest := .Destination -}}
-<!-- 是否开启 CDN 选项 -->
-{{- if (.Page.Site.Params.image_cdn.enable) -}}
-<!-- 文件不以 http 开头 -->
-{{ if not (hasPrefix $img_dest "https") }}
-<!-- image_cdn + /path/to/image.png -->
-{{ $img_dest = (print .Page.Site.Params.image_cdn.host (path.Join $img_dest)) }}
-{{ end }}
-{{- end -}}

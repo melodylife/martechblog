@@ -12,6 +12,7 @@ categories:
  - Brand Marketing
  - Tracking
 thumbnail: "https://d1gqx5wdpmskko.cloudfront.net/posts/vision-pro-on-marketing/vision-pro-thumb.jpg"
+description: vision-pro-on-marketing 
 comments: true
 authorbox: true # Enable authorbox for specific page
 pager: true # Enable pager navigation (prev/next) for specific page
@@ -21,7 +22,7 @@ draft: false
 ---
 
 ## What is Vision Pro
-![Apple Vision Pro](https://d1gqx5wdpmskko.cloudfront.net/posts/vision-pro-on-marketing/vision-pro.jpeg)
+![Apple Vision Pro](vision-pro.jpeg)
   In early June 2023, Apple has launched their new creative AR product which is called vision pro. According to the reaction of the industry , the product is undoubtedly beyond the expectation. On one hand it's because to of the marketing strategy before its launch that Apple tried their best to pull down industry expectation. While on the other hand , vision pro does bring some features which are not predicted by the media worldwide. For the consumers, the vision pro can act as 
    * A new projection device to expand vision border of their existing workspace or entertainment screen. 
    * A new device to provide immersive experience in some particular scenarios, like meditation, exercises , movie watching , gaming , etc. 

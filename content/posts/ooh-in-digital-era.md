@@ -15,6 +15,7 @@ keywords:
 thumbnail: "https://d1gqx5wdpmskko.cloudfront.net/posts/ooh-in-digital-era/OOH-thumnail.jpeg"
 comments: true # Enable Disqus comments for specific page
 pager: true # Enable pager navigation (prev/next) for specific page
+description: "ooh-in-digital-era"
 mathjax: true # Enable MathJax for specific page
 draft: false
 ---
@@ -23,7 +24,7 @@ OOH is the breviation of out-of-home advertising, also called outdoor advertisin
 This includes billboards, wallscapes, and ,screens, posters seen while "on the go". It also includes place-based media seen in places such as convenience stores, medical centers, salons, and other brick-and-mortar venues.
 ### OOH advertising in the marketing industry
 The marketing campaigns are following marketing funnel. For OOH , it's sitting at the top funnel mostly to drive awareness. Originally, the marketers will research the demographic of selected regions and choose the most fitable region to buy OOH media. It's widely used by brand awareness marketing, new product release, etc. .
-![Marketing Funnel](https://d1gqx5wdpmskko.cloudfront.net/posts/ooh-in-digital-era/marketing-funnel.png)
+![Marketing Funnel](marketing-funnel.png)
 ### How can it help in the marketing funnel
 Since marketers select the media based on the regional demographic, they expect the Ad can impact the targeted used group. Marketers want to convince those audiences to try to learn more details of the brand or the product. They don't expect conversions coming from such format of Ads.  
 ## Why can't OOH fit into cocurrent digital marketing era
@@ -37,13 +38,13 @@ Let's turn back to check the OOH. It's typicall the traditional Ad format. It's 
 The traditional OOH is obsolete. Are there any ways to refurbish this old-fasion media? 
 ### How to digitalize OOH
 Like all the other media, OOH is also digitalizable.But it's a little bit different from online advertising. The OOH digitalization is based on GEO targeting but not based on single devices. If it's based on GEO, is it same as traditianal TV Ads ? The answere is absolutely no. The OOH digitalization is leveraging geo fencing. Meanwhile, the data is from audience devices segmented according to users' preferences.  
-![GEO Fencing](https://d1gqx5wdpmskko.cloudfront.net/posts/ooh-in-digital-era/geofence.png)
+![GEO Fencing](geofence.png)
 After the OOH campaign, audience data can be transported into other marketing channels like all the other digital marketing solutions providing consolidated marketing experience for both marketers and targeted audiences. Let's take a look at the digital OOH marketing campaign execution steps. 
 1. Define the targeted audince segmentations
 This step is same as regular digital campaigns. It's firstly to define what kind of user the campaign needs to influence. The tips are similar to other digital marketing solution as well. Don't choose the segmentation that is too small, cuz you are execute OOH for upper funnel. 
 2. Project the audience segmentation to the map and find out best OOH placement to reach out to the audiences. 
 This is the most critical step of digital OOH. Unlike other digital marketing to use data to target audience in real time, digitall OOH is to use audience data to analyze the media inventory that it will help marketers to select the most fitable inventory for the campaign. The way OOH reaching out to user is one to more not one to one like mobile or website. Hence, OOH is targeting group of users but not based on single user preferences.With the selection with consideration of cost,marketers can decide the inventory to buy. Some Ad platform is providing geo heat map with the audience projection. This is quite intuitive for the marketers to make final decision.   
-    ![Heat Map](https://d1gqx5wdpmskko.cloudfront.net/posts/ooh-in-digital-era/geo-heatmap.png)
+    ![Heat Map](geo-heatmap.png)
 3. Execute the campaign and use other touchpoints to measure the performance 
 With all the inventory and segments prepared, the campaign will be kicked off. During the period what marketers can do ? Measurement and monitoring is quite important. To do measurement, marketers need to define the metrics. It's not recommended to add final conversion as the key metrics because it's too low in the funnel which is far from the funnel layer of OOH. Here are some metrics suggested, 
 * Search rate
@@ -70,7 +71,7 @@ Hence, above two are the most typical scenario of digital OOH. But both are for 
 Despite the digitalized OOH industry looks promising and attemptive for marketers, there are still multiple points to pay attention to. 
 ### Where are the inventories
 Inventory build-up is always the top priority. If you want to organize a group of media , you need to work with local property management or community management team. You need to set up competible revenue share with them so that they are willing to let you manage their community resources. Moreover, we need to pay attention the quality. Sometimes, you can find there are more than 1 placement in one elevator carrier which will distract the audiences. 
-![Elevator OOH](https://d1gqx5wdpmskko.cloudfront.net/posts/ooh-in-digital-era/ooh-elevator.jpeg)
+![Elevator OOH](ooh-elevator.jpeg)
 ### How to gather the convincible data
 Data is another challenge of the digitalized OOH. Data refers to both data for targeting and the data for measurement. It's better to find the region with contains enough audience data density.Meanwhile, marketers need to form a reasonable combination of metrics to measure the performance. Conversion is always avoid in such scenario. Considering what's next after OOH campaign can help you set up meaningful meansurement framework.
 ## Conclusion
