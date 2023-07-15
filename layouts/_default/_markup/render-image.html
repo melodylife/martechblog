@@ -11,7 +11,7 @@
 
 <!-- 4.  开启 CDN -->
 <!-- 是否开启 CDN 选项 -->
-{{- if (and .Page.Site.Params.image_cdn.enable .Page.Site.IsServer) -}}
+{{- if .Page.Site.Params.image_cdn.enable -}}
 <!-- 文件不以 http 开头 -->
 {{ if not (hasPrefix $img_dest "https") }}
 <!-- image_cdn + /path/to/image.png -->
