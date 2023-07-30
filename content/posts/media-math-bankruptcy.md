@@ -17,7 +17,7 @@ pager: true # Enable pager navigation (prev/next) for specific page
 description: media-math-bankruptcy
 mathjax: true # Enable MathJax for specific page
 thumbnail: https://d1gqx5wdpmskko.cloudfront.net/posts/media-math-bankruptcy/media-math-logo.jpeg
-draft: true
+draft: false 
 ---
 
 ## Breaking news in the digital marketing industry
