@@ -7,6 +7,7 @@ comments: true # Enable Disqus comments for specific page
 pager: true # Enable pager navigation (prev/next) for specific page
 description: [Please add file name as description here without extension]
 mathjax: true # Enable MathJax for specific page
+description: post-cookie-era
 thumbnail: "https://www.ipvanish.com/wp-content/uploads/2021/12/what-are-internet-cookies_IPV-blog.png"
 draft: false
 ---
