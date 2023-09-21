@@ -8,7 +8,7 @@ pager: true # Enable pager navigation (prev/next) for specific page
 description: [Please add file name as description here without extension]
 mathjax: true # Enable MathJax for specific page
 thumbnail: "https://www.ipvanish.com/wp-content/uploads/2021/12/what-are-internet-cookies_IPV-blog.png"
-draft: true
+draft: false
 ---
 ## What role does cookie play in the advertisement industry ?
 Cookie , in internet industry, sounds like an ancient era. The ID identifier was generated in last century and has been serving the web users for more than several decades. The cookie was introduced by Netscape who was the browser pioneer. It's been used to identify users on website. You can simply take it as an ID of a user in a specific domain/website. There are many different types of cookie used for different purposes. The website owners usually use it to differentiate users or user
